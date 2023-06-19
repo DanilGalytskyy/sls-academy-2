@@ -1,0 +1,18 @@
+{
+  "name": "04_telegram_bot_weather_forcast",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "resolve": {
+    "extentions": [
+      ".js",
+      ".mjs"
+    ]
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
